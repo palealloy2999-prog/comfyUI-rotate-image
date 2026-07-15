@@ -3,6 +3,7 @@
 [日本語](README_JA.md) | English
 
 A custom ComfyUI node that rotates an input image and fills the surrounding area with a chosen background.
+<img width="1658" height="1452" alt="image" src="https://github.com/user-attachments/assets/0804d800-b2ae-491e-9868-2ccfc256f1de" />
 
 ## Installation
 
