@@ -3,6 +3,10 @@
 日本語 | [English](README.md)
 
 入力画像を回転するための ComfyUI カスタムノードです。回転によって生じる余白の処理方法を選択できます。
+ComfyUIの標準ノードでは対応していない中途半端な角度への回転が可能です
+
+<img width="1658" height="1452" alt="image" src="https://github.com/user-attachments/assets/0804d800-b2ae-491e-9868-2ccfc256f1de" />
+
 
 ## インストール
 
