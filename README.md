@@ -6,7 +6,13 @@ A custom ComfyUI node that rotates an input image and fills the surrounding area
 
 ## Installation
 
-1. Place this folder under `ComfyUI/custom_nodes`.
+1. Clone this repository into `ComfyUI/custom_nodes`:
+
+   ```bash
+   cd ComfyUI/custom_nodes
+   git clone https://github.com/palealloy2999-prog/comfyUI-rotate-image.git
+   ```
+
 2. Restart ComfyUI.
 3. Search for `Rotate Image` in the node list.
 

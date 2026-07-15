@@ -6,7 +6,13 @@
 
 ## インストール
 
-1. このフォルダーを `ComfyUI/custom_nodes` 内に配置します。
+1. このリポジトリを `ComfyUI/custom_nodes` 内にクローンします。
+
+   ```bash
+   cd ComfyUI/custom_nodes
+   git clone https://github.com/palealloy2999-prog/comfyUI-rotate-image.git
+   ```
+
 2. ComfyUI を再起動します。
 3. ノード一覧で `Rotate Image` を検索します。
 
